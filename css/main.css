@@ -1,14 +1,30 @@
+<<<<<<< HEAD
 @import url("https://fonts.googleapis.com/css?family=Poppins");
 /*! HTML5 Boilerplate v5.0 | MIT License | http://h5bp.com/ */
 html {
   color: #222;
   font-size: 62.5%;
+=======
+
+
+
+@import url('https://fonts.googleapis.com/css?family=EB+Garamond|Heebo|Lora|Poppins|PT+Serif|Raleway');
+
+/*! HTML5 Boilerplate v5.0 | MIT License | http://h5bp.com/ */
+html {
+  color: #222;
+  font-size: 100%;
+>>>>>>> 816a937acfbdc6255285ad741be4eabbbd6656bc
   line-height: 1.5; }
 
 body {
   margin: 0;
   font-family: 'Poppins', sans-serif;
+<<<<<<< HEAD
   font-size: 3.6rem;
+=======
+  font-size: 2.25rem;
+>>>>>>> 816a937acfbdc6255285ad741be4eabbbd6656bc
   font-weight: normal;
   letter-spacing: 0.01em; }
 
@@ -355,4 +371,8 @@ a {
   h3 {
     page-break-after: avoid; } }
 
+<<<<<<< HEAD
 /*# sourceMappingURL=main.css.map */
+=======
+/*# sourceMappingURL=main.css.map */
+>>>>>>> 816a937acfbdc6255285ad741be4eabbbd6656bc
